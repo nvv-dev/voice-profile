@@ -1,0 +1,16 @@
+{
+  "name": "voice-profile",
+  "version": "0.1.0",
+  "description": "Builds about-me.md and voice.md from a short interview and three to five real texts; asks before starting.",
+  "author": {
+    "name": "nvvdev",
+    "url": "https://github.com/nvv-dev"
+  },
+  "homepage": "https://github.com/nvv-dev/voice-profile",
+  "repository": "https://github.com/nvv-dev/voice-profile",
+  "license": "MIT",
+  "keywords": [
+    "skill",
+    "growth-workflow"
+  ]
+}
